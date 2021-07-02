@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RegistryDesktop.about">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>about.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RegistryDesktop.MainWindow">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQgAIMIAACAAgAACAAiBAAACACCAhAQAE0BAAAAEAAg=</HashCode>
+      <FileName>MainWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RegistryDesktop.scanRegistry">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAIAGAAQAAABCCAASDCAAAhACQAiAAAAAgAhAA=</HashCode>
+      <FileName>scanRegistry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RegistryDesktop.Settings">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACgAABAQACCAACQCAIAAAQAAAAAAKEAAAAA=</HashCode>
+      <FileName>Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

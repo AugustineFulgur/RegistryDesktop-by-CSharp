@@ -1,0 +1,6 @@
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryD\bin\x64\Debug\RegistryD.dll
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryD\bin\x64\Debug\RegistryD.pdb
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryD\obj\x64\Debug\Registrydll.csproj.CoreCompileInputs.cache
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryD\obj\x64\Debug\RegistryD.dll
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryD\obj\x64\Debug\RegistryD.pdb
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryD\obj\x64\Debug\Registrydll.csprojAssemblyReference.cache

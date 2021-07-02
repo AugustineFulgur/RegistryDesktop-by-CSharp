@@ -1,0 +1,8 @@
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryD\obj\Debug\Registrydll.csproj.CoreCompileInputs.cache
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryD\bin\Debug\RegistryD.dll
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryD\bin\Debug\RegistryD.pdb
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryD\obj\Debug\RegistryD.dll
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryD\obj\Debug\RegistryD.pdb
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryD\obj\Debug\Registrydll.csprojAssemblyReference.cache
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryD\bin\Debug\System.Data.SQLite.dll
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryD\obj\Debug\Registrydll.csproj.CopyComplete

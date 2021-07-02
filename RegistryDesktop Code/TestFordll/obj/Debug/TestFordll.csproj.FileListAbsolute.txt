@@ -1,0 +1,11 @@
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\TestFordll\bin\Debug\TestFordll.exe.config
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\TestFordll\bin\Debug\TestFordll.exe
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\TestFordll\bin\Debug\TestFordll.pdb
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\TestFordll\bin\Debug\RegistryD.dll
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\TestFordll\bin\Debug\RegistryD.pdb
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\TestFordll\obj\Debug\TestFordll.csprojAssemblyReference.cache
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\TestFordll\obj\Debug\TestFordll.csproj.CoreCompileInputs.cache
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\TestFordll\obj\Debug\TestFordll.csproj.CopyComplete
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\TestFordll\obj\Debug\TestFordll.exe
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\TestFordll\obj\Debug\TestFordll.pdb
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\TestFordll\bin\Debug\System.Data.SQLite.dll

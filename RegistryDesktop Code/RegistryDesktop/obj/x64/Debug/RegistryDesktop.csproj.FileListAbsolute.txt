@@ -1,0 +1,17 @@
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryDesktop\bin\x64\Debug\RegistryDesktop.exe.config
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryDesktop\bin\x64\Debug\RegistryDesktop.exe
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryDesktop\bin\x64\Debug\RegistryDesktop.pdb
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryDesktop\bin\x64\Debug\RegistryD.dll
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryDesktop\bin\x64\Debug\RegistryD.pdb
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryDesktop\obj\x64\Debug\RegistryDesktop.csprojAssemblyReference.cache
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryDesktop\obj\x64\Debug\RegistryDesktop.MainWindow.resources
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryDesktop\obj\x64\Debug\RegistryDesktop.Properties.Resources.resources
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryDesktop\obj\x64\Debug\RegistryDesktop.scanRegistry.resources
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryDesktop\obj\x64\Debug\RegistryDesktop.Settings.resources
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryDesktop\obj\x64\Debug\RegistryDesktop.WelcomeWindow.resources
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryDesktop\obj\x64\Debug\RegistryDesktop.csproj.GenerateResource.cache
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryDesktop\obj\x64\Debug\RegistryDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryDesktop\obj\x64\Debug\RegistryDesktop.csproj.CopyComplete
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryDesktop\obj\x64\Debug\RegistryDesktop.exe
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryDesktop\obj\x64\Debug\RegistryDesktop.pdb
+C:\Users\Augustine·Stuart·Xu\source\repos\RegistryDesktop\RegistryDesktop\obj\x64\Debug\RegistryDesktop.about.resources

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <startup useLegacyV2RuntimeActivationPolicy="true">
+    <supportedRuntime version="v4.0" sku = ".NETFramework,Version=v4.0"/>
+    <supportedRuntime version="v2.0.50727"/> <!--为了SQLite设置的兼容 这个程序集问题很大-->
+  </startup>
+</configuration>
